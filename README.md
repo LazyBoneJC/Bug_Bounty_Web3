@@ -1,4 +1,7 @@
 # My Web3 Security Research Portfolio
+<p>
+    <a href="https://lazybonejc.github.io/ywc-s-blog/2025/09/10/Bug-Bounty-Journey/">Blog: My Bug Bounty Journey</a>
+</p>
 
 ## 🛡️ Introduction
 
@@ -81,3 +84,4 @@ I am always open to discussing security, collaborating on research, or exploring
 
 - **Email**: [wc065426@gmail.com](mailto:wc065426@gmail.com)
 - **LinkedIn**: [linkedin.com/in/yu-wei-chang](http://www.linkedin.com/in/yu-wei-chang-6714a91a4)
+
